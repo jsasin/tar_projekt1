@@ -1,7 +1,7 @@
 require 'simplecov'
 SimpleCov.start
 
-require 'C:/Users/Jacek/RubymineProjects/untitled/projekt tar/tar'
+require 'tar'
 
 RSpec.describe 'tar.rb' do
   describe 'Array' do
